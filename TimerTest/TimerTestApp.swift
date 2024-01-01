@@ -1,9 +1,3 @@
-//
-//  TimerTestApp.swift
-//  TimerTest
-//
-//  Created by Samir Raut on 09/12/22.
-//
 
 import SwiftUI
 
