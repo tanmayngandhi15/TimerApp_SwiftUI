@@ -1,9 +1,3 @@
-//
-//  UISubhashit.swift
-//  TimerTest
-//
-//  Created by Samir Raut on 29/04/23.
-//
 
 import SwiftUI
 
